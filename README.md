@@ -3,10 +3,10 @@ Blinkit Dataset Analysis Report Prepared Using Power BI
 Date: March 06, 2025
 ![Blinkit Project Dashboard_page-0001](https://github.com/user-attachments/assets/29031b03-7e24-48a7-b338-20db6eb38da0)
 
-#Introduction
+## Introduction
 This report analyzes the Blinkit dataset, focusing on key business metrics and dimensions such as sales performance, item details, and outlet characteristics. The analysis leverages Power BI to visualize trends and insights, with filters applied for deeper segmentation by outlet location, outlet size, and item type.
-#Key Metrics Analyzed
-#Total Sales
+# Key Metrics Analyzed
+## Total Sales
 Represents the aggregate revenue generated across all outlets.
 Provides a high-level view of Blinkit’s financial performance.
 #Number of Items
