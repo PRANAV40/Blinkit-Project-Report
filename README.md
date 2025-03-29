@@ -75,6 +75,5 @@ Promote Low Fat items, given their high ratings and growing demand.
 Investigate why Tier 3 outlets have higher ratings—replicate best practices elsewhere.
 Stock more popular Item Types (e.g., Snacks) in newer outlets to boost performance.
 
-#Conclusion
+## Conclusion
 This analysis provides a comprehensive view of Blinkit’s operational and sales performance. The use of Power BI filters enables stakeholders to drill down into specific segments, offering actionable insights for inventory management, outlet expansion, and customer satisfaction strategies.
-
