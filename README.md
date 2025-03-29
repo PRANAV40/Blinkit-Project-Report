@@ -7,28 +7,28 @@ Date: March 06, 2025
 This report analyzes the Blinkit dataset, focusing on key business metrics and dimensions such as sales performance, item details, and outlet characteristics. The analysis leverages Power BI to visualize trends and insights, with filters applied for deeper segmentation by outlet location, outlet size, and item type.
 # Key Metrics Analyzed
 ## Total Sales
-Represents the aggregate revenue generated across all outlets.
-Provides a high-level view of Blinkit’s financial performance.
-#Number of Items
-Counts the total distinct items sold.
-Highlights product variety and inventory scope.
-#Average Sales
+* Represents the aggregate revenue generated across all outlets.
+* Provides a high-level view of Blinkit’s financial performance.
+## Number of Items
+* Counts the total distinct items sold.
+* Highlights product variety and inventory scope.
+## Average Sales
 Calculated as Total Sales divided by the number of transactions or items.
 Indicates the typical sales value per transaction or item.
-#Average Rating
+## Average Rating
 Measures customer satisfaction based on ratings provided.
 Reflects product or service quality perception.
-#Dimensions of Analysis
-#Fat Content
+# Dimensions of Analysis
+## Fat Content
 Categorizes items based on fat content (e.g., Low Fat, Regular).
 Identifies customer preferences for healthier or indulgent options.
-#Item Type
+## Item Type
 Groups products into categories (e.g., Dairy, Snacks, Beverages).
 Analyzes sales distribution and popularity across item types.
-#Outlet Establishment
+# Outlet Establishment
 Tracks the year or period when outlets were established.
 Assesses performance trends based on outlet age.
-#Outlet Size
+# Outlet Size
 Classifies outlets as Small, Medium, or Large.
 Evaluates the impact of outlet size on sales and operations.
 #Outlet Location
