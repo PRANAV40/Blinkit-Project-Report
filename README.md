@@ -48,7 +48,7 @@ Example: Compare Tier 1 vs. Tier 3 outlet performance.
 Example: Assess if larger outlets drive higher average sales.
 
 ## Item Type
-*Filters data by product categories to identify top-performing item types.
+* Filters data by product categories to identify top-performing item types.
 Example: Isolate sales and ratings for Snacks vs. Dairy.
 
 # Key Insights (Hypothetical Examples)
