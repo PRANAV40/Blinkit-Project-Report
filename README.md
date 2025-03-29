@@ -42,19 +42,19 @@ This report analyzes the Blinkit dataset, focusing on key business metrics and d
 The Power BI dashboard includes interactive filters to segment the data dynamically:
 ## Outlet by Location
 * Allows users to view metrics (e.g., Total Sales, Avg Rating) for specific geographic tiers.
-Example: Compare Tier 1 vs. Tier 3 outlet performance.
+### Example: Compare Tier 1 vs. Tier 3 outlet performance.
 ## Outlet by Size
 * Enables analysis of metrics across Small, Medium, and Large outlets.
-Example: Assess if larger outlets drive higher average sales.
+### Example: Assess if larger outlets drive higher average sales.
 
 ## Item Type
 * Filters data by product categories to identify top-performing item types.
-Example: Isolate sales and ratings for Snacks vs. Dairy.
+### Example: Isolate sales and ratings for Snacks vs. Dairy.
 
 # Key Insights (Hypothetical Examples)
 * Total Sales: ₹1.20M across all outlets.
-*# Number of Items: 8,523 unique items.
-#* Average Sales: ₹141 per transaction.
+* Number of Items: 8,523 unique items.
+* Average Sales: ₹141 per transaction.
 * Average Rating: 3.9/5.
 * Fat Content: Low Fat items account for 60% of sales, indicating health-conscious trends.
 * Outlet Establishment: Outlets established post-2018 show 20% higher sales.
